@@ -1,2 +1,13 @@
-# portfolio-website
-Computer Science student focused on web development and problem-solving. Skilled in HTML, CSS, JavaScript, Python, and DBMS, with a growing portfolio of practical projects.
+# Personal Portfolio
+
+A responsive personal portfolio website built using HTML and CSS.
+
+## Features
+- Responsive Design
+- Skills Section
+- Projects Section
+- Contact Information
+
+## Technologies Used
+- HTML5
+- CSS3
